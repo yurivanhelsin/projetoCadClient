@@ -11,7 +11,7 @@ import model.Clientes;
 public class TestesClientes {
     
     public static void main(String[] args) {
-        System.out.println("projeto salvo com sucesso");
+        System.out.println("projeto");
 //        
 //        ClienteController clientecontroller = new ClienteController();
 //            
